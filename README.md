@@ -6,7 +6,7 @@ This project is the core data layer of the **GitHub Stock Exchange (GSX)** syste
 
 ---
 
-## ⚡ Concept
+## Concept
 
 Traditional markets price companies.
 
@@ -77,7 +77,7 @@ GET /candles/:user
 
 ---
 
-## ⚙️ Architecture
+## Architecture
 
 ```
 GitHub Events API
@@ -134,7 +134,7 @@ score = (commits × 2) + (pull_requests × 5)
 
 ---
 
-## 🧪 Example Usage
+## Example Usage
 
 ```bash
 node server.js
